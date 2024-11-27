@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Nov 27 10:06:31 2024
+# Process ID: 35648
+# Current directory: C:/project_flappy_bird/project_flappy_bird.runs/clk_25MHz_synth_1
+# Command line: vivado.exe -log clk_25MHz.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_25MHz.tcl
+# Log file: C:/project_flappy_bird/project_flappy_bird.runs/clk_25MHz_synth_1/clk_25MHz.vds
+# Journal file: C:/project_flappy_bird/project_flappy_bird.runs/clk_25MHz_synth_1\vivado.jou
+#-----------------------------------------------------------
+source clk_25MHz.tcl -notrace
